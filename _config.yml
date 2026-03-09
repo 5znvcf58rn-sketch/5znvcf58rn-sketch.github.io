@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SocratesClub / Homepage"
+title                    : "垃圾场 / Homepage"
 title_separator          : "-"
-name                     : "SocratesClub"
-description              : "We are a small social science lab focusing on computational social science!"
-url                      : https://socratesgroup.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "垃圾场"
+description              : "南京大学学生"
+url                      : https://5znvcf58rn-sketch.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "socratesgroup.github.io"
+repository               : "5znvcf58rn-sketch.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "SocratesClub"
+  name             : "垃圾场"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "nanjing china"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
