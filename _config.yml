@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "垃圾场 / Homepage"
+title                    : "李佳晨 / Homepage"
 title_separator          : "-"
-name                     : "垃圾场"
+name                     : "李佳晨"
 description              : "南京大学学生"
 url                      : https://5znvcf58rn-sketch.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "垃圾场"
+  name             : "李佳晨"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "nanjing china"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "socratesclub"
+  github           : "5znvcf58rn-sketch"
   google_plus      :
   keybase          :
   instagram        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
